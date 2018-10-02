@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsAsPlants.Droid", "Fr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsAsPlants.Test", "FriendsAsPlants.Test\FriendsAsPlants.Test.csproj", "{6484ACD4-C3BB-4064-ACF5-5E10FDB434A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsAsPlants.Presentation", "FriendsAsPlants.Presentation\FriendsAsPlants.Presentation.csproj", "{A9FBB0B1-FE6C-4C81-9EF6-598CB5991886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{6484ACD4-C3BB-4064-ACF5-5E10FDB434A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6484ACD4-C3BB-4064-ACF5-5E10FDB434A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6484ACD4-C3BB-4064-ACF5-5E10FDB434A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FBB0B1-FE6C-4C81-9EF6-598CB5991886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FBB0B1-FE6C-4C81-9EF6-598CB5991886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FBB0B1-FE6C-4C81-9EF6-598CB5991886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FBB0B1-FE6C-4C81-9EF6-598CB5991886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
